@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CaculatorConsoleApp1/1.0.0": {
+        "runtime": {
+          "CaculatorConsoleApp1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CaculatorConsoleApp1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
